@@ -56,7 +56,7 @@
 ## 📁 Clean Project Structure
 
 ```
-Bhargavzz-inventx/
+Bhargavzz-InventX/
 ├── 📄 README.md
 ├── 📄 .gitattributes
 ├── 📂 backend/
@@ -162,8 +162,8 @@ REACT_APP_BACKEND_URL=http://localhost:5000
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Bhargavzz/inventX.git
-cd Bhargavzz-inventX
+git clone https://github.com/Bhargavzz/InventX.git
+cd Bhargavzz-InventX
 ```
 
 ### 2. Install Dependencies
