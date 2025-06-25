@@ -162,8 +162,8 @@ REACT_APP_BACKEND_URL=http://localhost:5000
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Bhargavzz/inventx.git
-cd bhargavzz-inventx
+git clone https://github.com/Bhargavzz/inventX.git
+cd bhargavzz-inventX
 ```
 
 ### 2. Install Dependencies
