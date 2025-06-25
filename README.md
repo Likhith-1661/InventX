@@ -1,0 +1,2 @@
+# InventX
+ Inventory Management System
