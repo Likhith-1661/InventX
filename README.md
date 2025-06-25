@@ -1,6 +1,3 @@
-Here's the revised README.md with a cleaner, more organized project structure presentation:
-
-
 # 🚀 InventX – Inventory Management System (MERN Stack)
 
 **InventX** is a full-stack inventory management web application that helps users track products, monitor stock, and manage warehouses in real-time. It supports role-based access, secure authentication, and cloud image uploads — designed with scalability, validation, and modular architecture in mind.
