@@ -1,12 +1,12 @@
-# 🚀 InventX – Inventory Management System (MERN Stack)
+#  InventX – Inventory Management System (MERN Stack)
 
 **InventX** is a full-stack inventory management web application that helps users track products, monitor stock, and manage warehouses in real-time. It supports role-based access, secure authentication, and cloud image uploads — designed with scalability, validation, and modular architecture in mind.
 
 ---
 
-## 🌐 Tech Stack
+##  Tech Stack
 
-### 🧠 Backend
+###  Backend
 - **Node.js**, **Express.js**
 - **MongoDB** with Mongoose
 - **JWT Auth**, **Bcrypt**, **Cookie-based Sessions**
@@ -14,7 +14,7 @@
 - **Zod** for schema validation
 - **Nodemailer** for contact/reset email flows
 
-### 🎨 Frontend
+###  Frontend
 - **React.js** with Hooks
 - **Redux Toolkit** for state management
 - **React Router** for routing
@@ -25,16 +25,16 @@
 
 ---
 
-## 📦 Features
+##  Features
 
-### ✅ Authentication
+###  Authentication
 - Secure Register/Login/Logout
 - JWT + HttpOnly cookie-based auth
 - Password hashing (bcrypt)
 - Forgot/reset password (with email token)
 - Protected routes with `HiddenLink` component
 
-### 📦 Product Management
+###  Product Management
 - Add/edit/delete/view products
 - Product image upload via Cloudinary
 - Rich text descriptions (React Quill)
@@ -42,13 +42,13 @@
 - View product details with created/updated timestamps
 - Product filtering and search
 
-### 📊 Dashboard Analytics
+###  Dashboard Analytics
 - Total inventory value calculation
 - Out-of-stock product alerts
 - Category distribution tracking
 - Responsive product summary cards
 
-### 📥 Contact Form
+###  Contact Form
 - Send messages to admin (Nodemailer-powered)
 
 ---
@@ -135,7 +135,7 @@ bhargavzz-inventx/
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 ### Backend `.env` (create in `/backend`)
 ```env
@@ -189,7 +189,7 @@ Access application at: `http://localhost:3000`
 
 ---
 
-## ✅ Key Implementation Highlights
+##  Key Implementation Highlights
 
 1. **Security**:
    - HttpOnly cookies for JWT storage
@@ -212,7 +212,7 @@ Access application at: `http://localhost:3000`
 
 ---
 
-## ✅ Future Improvements
+##  Future Improvements
 - Role-based access control
 - Bulk CSV import/export
 - Unit/Integration testing
@@ -222,7 +222,7 @@ Access application at: `http://localhost:3000`
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Sitra Vishnu Bhargav**  
 Final-year CSE, IIIT Jabalpur  
 [GitHub](https://github.com/Bhargavzz) • [LinkedIn](https://linkedin.com/in/bhargavzz)
