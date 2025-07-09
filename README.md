@@ -1,5 +1,9 @@
 #  InventX – Inventory Management System (MERN Stack)
 
+[![Frontend – Vercel](https://vercelbadge.vercel.app/api/bhargavzz/InventX)](https://inventx-alpha.vercel.app)
+[![Backend – Render](https://img.shields.io/badge/Backend-Live-green?style=flat&logo=render)](https://inventx-backend-g2tg.onrender.com/api/health)
+
+
 **InventX** is a full-stack inventory management web application that helps users track products, monitor stock, and manage warehouses in real-time. It supports role-based access, secure authentication, and cloud image uploads — designed with scalability, validation, and modular architecture in mind.
 
 ---
