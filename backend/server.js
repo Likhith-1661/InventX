@@ -17,7 +17,7 @@ const app = express();
 // Allowed origins for CORS
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://inventx.vercel.app",
+  "https://inventx-alpha.vercel.app",
 ];
 
 // Middleware
