@@ -51,6 +51,12 @@ app.get("/", (req, res) => {
   res.send("Home Page - Backend is live");
 });
 
+//api health
+app.get("/api/health", (req, res) => {
+  res.status(200).json({ status: "Backend is healthy ✅" });
+});
+
+
 // Error Middleware
 app.use(errorHandler);
 
