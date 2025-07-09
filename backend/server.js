@@ -10,7 +10,7 @@ const userRoute = require("./routes/userRoute");
 const productRoute = require("./routes/productRoute");
 const contactRoute = require("./routes/contactRoute");
 const errorHandler = require("./middleWare/errorMiddleware");
-
+//testing github actions auto deploy
 // Initialize App
 const app = express();
 
