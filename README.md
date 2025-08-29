@@ -229,7 +229,7 @@ Access application at: `http://localhost:3000`
 ---
 
 ##  Author
-**Sitra Vishnu Bhargav**  
+**Likhith Vejendla**  
 Final-year CSE, IIIT Jabalpur  
 [GitHub](https://github.com/Bhargavzz) • [LinkedIn](https://linkedin.com/in/bhargavzz)
 
