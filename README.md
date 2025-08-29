@@ -231,7 +231,7 @@ Access application at: `http://localhost:3000`
 ##  Author
 **Likhith Vejendla**  
 Final-year CSE, IIIT Jabalpur  
-[GitHub](https://github.com/Bhargavzz) • [LinkedIn](https://linkedin.com/in/bhargavzz)
+[GitHub](https://github.com/Likhith-1661) • [LinkedIn](https://www.linkedin.com/in/likhith-vejendla-219216275/)
 
 ---
 
